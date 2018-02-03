@@ -1,2 +1,2 @@
 # 12balls
-- its about 12 balls pazzel.
+- its about 12 balls puzzle .
